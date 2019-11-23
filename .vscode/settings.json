@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "list": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "ostream": "cpp",
+        "iosfwd": "cpp",
+        "bitset": "cpp",
+        "ios": "cpp",
+        "algorithm": "cpp",
+        "xstring": "cpp",
+        "cmath": "cpp",
+        "queue": "cpp",
+        "xtree": "cpp"
+    }
+}
