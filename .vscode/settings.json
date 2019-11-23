@@ -16,5 +16,11 @@
         "cmath": "cpp",
         "queue": "cpp",
         "xtree": "cpp"
+    },
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
     }
 }
