@@ -15,7 +15,9 @@
         "xstring": "cpp",
         "cmath": "cpp",
         "queue": "cpp",
-        "xtree": "cpp"
+        "xtree": "cpp",
+        "limits": "cpp",
+        "set": "cpp"
     },
     "files.exclude": {
         "**/.classpath": true,
