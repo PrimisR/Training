@@ -17,7 +17,9 @@
         "queue": "cpp",
         "xtree": "cpp",
         "limits": "cpp",
-        "set": "cpp"
+        "set": "cpp",
+        "xiosbase": "cpp",
+        "cstdio": "cpp"
     },
     "files.exclude": {
         "**/.classpath": true,
