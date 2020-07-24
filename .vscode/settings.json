@@ -58,7 +58,10 @@
         "fstream": "cpp",
         "functional": "cpp",
         "numeric": "cpp",
-        "xhash": "cpp"
+        "xhash": "cpp",
+        "abb.C": "cpp",
+        "roman.C": "cpp",
+        "garden.C": "cpp"
     },
     "files.exclude": {
         "**/.classpath": true,
